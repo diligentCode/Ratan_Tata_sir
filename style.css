@@ -71,10 +71,11 @@ a,.hero-body-info{
 }
 
 .right-side{
-    display: flex;
-    flex: 1;
-    justify-content:end;
+width: 600px;
 
 }
-
+.ratan-tata-image{
+    width: 600px;
+    height: 250px;
+}
 /* Box Two - Styling */
