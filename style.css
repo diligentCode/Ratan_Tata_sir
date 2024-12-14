@@ -125,3 +125,27 @@ a,
 }
 
 /* Box - 3 */
+.box-three{
+    background-color: #E5e7eb;
+    color: #1F2937;
+    font-size: 32px;
+}
+
+
+/* Box 3 - alignment */
+.box-three-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 380px;
+    padding-right: 380px;
+
+}
+.by-ratan-tata{
+    font-size: 28px;
+    align-self: self-end;
+}
+
+/* Box 4 Styling */
